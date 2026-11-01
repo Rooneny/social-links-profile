@@ -45,14 +45,14 @@ width: min(90%, 24rem);
   padding: 2rem;
 }
 .profile img {
-  width: 100px;
-  height: 100px;
+  width: 6.25rem;
+  height: 6.25rem;
   border-radius: 50%;
 
 }
 .profile h1 {
   color: var(--color-white);
-  font-size: 24px;
+  font-size: 1.5rem;
 margin-block-start: 1rem;
   font-weight: 400;
 }
